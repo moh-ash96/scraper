@@ -4,4 +4,4 @@ I need to make two functions about citations, one will count the citations in th
 
 ## Solution
 
-[Pull Request](www.github.com/moh-ash96/scraper/pull/1)
+[Pull Request](github.com/moh-ash96/scraper/pull/1)
